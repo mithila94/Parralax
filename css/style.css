@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.TREE1{
+    background-color: aqua;
+    color: black;
+    padding: 20px;
+    text-align: center;}
+
+.TREE2{
+            background-color: rgb(255, 0, 30);
+            color: black;
+            padding: 20px;
+            text-align: center;}
+ .TREE3{
+                background-color: rgb(0, 255, 195);
+                color: black;
+                padding: 20px;
+                text-align: center;}
+
+                .misti4{
+                    background-color: rgb(207, 252, 8);
+                    color: black;
+                    padding: 20px;
+                    text-align: center;}
+         .TREE4{
+                        background-color: rgb(255, 174, 0);
+                        color: black;
+                        padding: 20px;
+                        text-align: center;}
+           .TREE5{
+               background-color: brown;
+               padding: 20PX;
+           }             
+        
+
+.Parralax1{
+    background-image:url(../img/mithila3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 500px;
+}
+
+.Parralax2{
+    background-image:url(../img/mithila2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 500px;
+}
+
+.Parralax3{
+    background-image:url(../img/mithila1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 500px;
+}
+
+.Parralax4{
+    background-image:url(../img/mithila4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 500px;
+}
+.Parralax5{
+    background-image:url(../img/mithila5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 500px;
+}
